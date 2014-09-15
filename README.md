@@ -12,7 +12,7 @@ Put the _.cs file into Assets/Plugins directory and use it directly.
 - public static void l(string msg)
    
   prints a string to the debug console with current time and date and other info
- e.g. _.l("Hello");
+ e.g.  _.l("Hello");
 
 - public static void ExecOnce(Callback callback,ref bool limiter)
    
