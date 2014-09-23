@@ -1,0 +1,4 @@
+The project is possible by community QA sites, forums and nice people to share their tricks for other people to use.
+
+1. InitializeArrayObject method by http://stackoverflow.com/users/105570/dan-tao
+2. Shuffle method by http://stackoverflow.com/users/68115/grenade
