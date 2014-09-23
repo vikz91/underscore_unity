@@ -3,6 +3,7 @@ _Unity
 
 Utility Library for Unity Game Engine
 
+*UPDATE 23rd Sept 2014 : * New Methods Added
 
 Put the _.cs file into Assets/Plugins directory and use it directly.
 
